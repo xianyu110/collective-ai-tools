@@ -138,6 +138,7 @@ Use these hashtags in search to filter out the tools
 
 - [BlueWillow](https://www.bluewillow.ai) - Prompt based AI image generating tool for logos, characters, digital artwork, etc. `#free`
 - [Dall-E 3](https://openai.com/dall-e-3) - AI image generator accesible Microsoft's Bing Chat and Bing Image Creator `#free`
+- [GPT Image 2](https://gptimage2.asia/) - Browser-based AI image generator/editor for marketing visuals, ecommerce assets, social posts, and branded content `#freemium`
 - [Easy-Peasy.ai](https://easy-peasy.ai) - AI copywriting tools to help you tell your story in the most engaging way. `#freemium`
 - [Jackey](https://jackey.elixpo.com/) - A Discord bot that generates and remixes images from text prompts, helping communities create stunning visuals instantly. `#free` `#opensource`
 - [lexical.Art](https://lexica.art) -AI image generation tool that allows you to create images from text descriptions. `#free`
